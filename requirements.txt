@@ -1,1 +1,12 @@
-
+pgvector
+streamlit
+openai
+psycopg2
+pandas
+numpy
+torch
+sentence-transformers
+langchain
+fastapi
+udatetime
+requests
